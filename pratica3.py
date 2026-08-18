@@ -1,3 +1,5 @@
+# Arrays NumPy - Terceira Prática
+
 import numpy as np
 
 # Exercício 1: Importação de Pacote e Criação de Array
